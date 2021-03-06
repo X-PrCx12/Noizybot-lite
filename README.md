@@ -83,6 +83,12 @@
 |       ✅        |  dork             |
 |       ✅        |  nmap             |
 
+## Follow me on social media
+<ul>
+<li>https://instagram.com/davzfaiz<br>
+<li>https://instagram.com/noizybot<br>
+<li>https://tiktok.com/@noizybot<br>  
+</li>
 
 ## 🙏 Special Thanks To
 <ul>
