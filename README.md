@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://g.top4top.io/p_1891zyx6g1.jpg" alt="png" width="128" height="128"/>
+<img src="https://i.top4top.io/p_1891yge191.jpg" alt="png" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="NOIZYBOT" src="https://img.shields.io/badge/SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
