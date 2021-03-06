@@ -2,7 +2,7 @@
 <img src="https://i.top4top.io/p_1891yge191.jpg" alt="png" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="NOIZYBOT" src="https://img.shields.io/badge/SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NOIZYBOT" src="https://img.shields.io/badge/NOIZYBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Davznet"><img title="Dave" src="https://img.shields.io/badge/Author-Dave-red.svg?style=for-the-badge&logo=github"></a>
