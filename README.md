@@ -7,7 +7,6 @@
 <p align="center">
 <a href="https://github.com/Davznet"><img title="Dave" src="https://img.shields.io/badge/Author-Dave-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-![Uploading image.png…]()
 
 ### Installasi In TERMUX
 
@@ -91,7 +90,7 @@
 <li>https://tiktok.com/@noizybot<br>  
 </li>
   
- <div><a href="http://instagram.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Instagram"></a><a href="http://facebook.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Facebook"></a><a href="http://youtube.com/user/username" ><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="YouTube"></a></div>
+ <div><a href="http://instagram.com/davzfaiz"><img style="margin:5px" src="[https://images.app.goo.gl/HnbfrQop5eWUq3j26]" width="30" height="30" alt="Instagram"></a><a href="http://facebook.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Facebook"></a><a href="http://youtube.com/user/username" ><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="YouTube"></a></div>
 
 ## 🙏 Special Thanks To
 
