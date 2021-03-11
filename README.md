@@ -94,9 +94,9 @@
 
 ## 🙏 Special Thanks To
 
- [ADIWAJSHING/BAILEYS](https://github.com/adiwajshing/Baileys) <br>
+```1.``` [ADIWAJSHING/BAILEYS](https://github.com/adiwajshing/Baileys) <br>
  
- [MHANKBARBAR](https://github.com/mhankbarbar) <br>
+```2.``` [MHANKBARBAR](https://github.com/mhankbarbar) <br>
  
- [DAVE](https://github.com/davznet) <br>
+```3.``` [DAVE](https://github.com/davznet) <br>
 
