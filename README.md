@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://github.com/Davznet"><img title="Dave" src="https://img.shields.io/badge/Author-Dave-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+![Uploading image.png…]()
 
 ### Installasi In TERMUX
 
