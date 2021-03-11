@@ -90,6 +90,8 @@
 <li>https://tiktok.com/@noizybot<br>  
 </li>
 
+<div><a href="http://instagram.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Instagram"></a><a href="http://facebook.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Facebook"></a><a href="http://youtube.com/user/username" ><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="YouTube"></a></div>
+
 ## 🙏 Special Thanks To
 <ul>
 <li>https://github.com/adiwajshing/Baileys<br>
