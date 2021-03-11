@@ -89,9 +89,12 @@
 <li>https://instagram.com/noizybot<br>
 <li>https://tiktok.com/@noizybot<br>  
 </li>
+  
+ <div><a href="http://instagram.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Instagram"></a><a href="http://facebook.com/username"><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="Facebook"></a><a href="http://youtube.com/user/username" ><img style="margin:5px" src="[path to your icon]" width="30" height="30" alt="YouTube"></a></div>
 
 ## 🙏 Special Thanks To
 <br>
-# [ADIWAJSHING/BAILEYS](https://github.com/adiwajshing/Baileys) <br> 
-# [MHANKBARBAR](https://github.com/mhankbarbar) <br>
+ [ADIWAJSHING/BAILEYS](https://github.com/adiwajshing/Baileys) <br> 
+ [MHANKBARBAR](https://github.com/mhankbarbar) <br>
+ [DAVE](https://github.com/davznet) <br>
 
